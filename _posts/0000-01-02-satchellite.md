@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Satchel's slide!"
 ---
 This is Satchel's new line.
-Use the left arrow to go back!
+Use the left arrow to go back!Adding new line
